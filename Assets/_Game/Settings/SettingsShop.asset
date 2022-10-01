@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bb3a96d2f359d34abfc3b3ceb780fe6, type: 3}
+  m_Name: SettingsShop
+  m_EditorClassIdentifier: 
+  junkBotPercentDeltaSpeed: 5
+  junkBotCountCrystals: 50
+  junkBotCostMoney: 6.99
+  junkBotProductID: junk_bot_set
+  everyDayCrystals: 5
+  everyDayDeltaTime: 86400000
+  specialOfferCristals: 50
+  specialOfferCoins: 1500
+  specialOfferCostMoney: 2.99
+  specialOfferProductID: special_offer
+  smallCoins: 1000
+  smallCoinsCost: 8
+  middleCoins: 3000
+  middleCoinsCost: 20
+  bigCoins: 6000
+  bigCoinsCost: 40
+  smallCrystals: 10
+  smallCrystalsCostMoney: 0.99
+  smallCrystalsProductID: small_crystals
+  middleCrystals: 50
+  middleCrystalsCostMoney: 3.99
+  middleCrystalsProductID: middle_crystals
+  bigCrystals: 1000
+  bigCrystalsCostMoney: 6.99
+  boostCrusherCostMoney: 2.99
+  boostForceCostMoney: 2.99
+  boostTrailerCostMoney: 2.99
+  boostMagnetCostMoney: 2.99
+  trueNoAdsCostMoney: 8.99
+  timeBetweenOffers: 300
+  countCoinOneTimeOffer: 1500
+  countCrystalsOneTimeOffer: 50
+  oldCostOneTimeOffer: 2.99
+  costOneTimeOffer: 1.49

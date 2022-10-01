@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cd25c9c89e4d0c488b067a2dc6c9ca4, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  _BackgroundMusicPrefab: {fileID: 973232793461688491, guid: 33c3105d9348300419bf9172f4742e4a, type: 3}
+  costCountStar: 0000000090010000f4010000bc020000840300004c04000014050000dc050000a4060000d0070000
+  costGroupStar: 000000002c0100005e010000c2010000260200008a020000ee020000e803000078050000d0070000
+  costSizeStar: 000000002c0100005e010000c2010000260200008a020000ee020000e803000078050000d0070000
+  costSpeedStar: 000000002c0100005e010000c2010000260200008a020000ee020000e803000078050000d0070000
+  costSpaceTraile: 00000000f401000058020000bc0200002003000084030000e80300004c040000b004000014050000
+  costSpeedWheels: 000000005802000020030000e8030000b0040000780500004006000008070000d007000098080000
+  maxPercentTrashes: 95
+  minPercentTrashes: 65
+  countHardForCompleteCleaning: 3
+  timeFirstShowAd: 900
+  deltaTimeSeconShowAd: 220
